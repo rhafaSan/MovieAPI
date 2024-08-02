@@ -1,0 +1,4 @@
+2024-08-01 14:43:33:4333 - [31merror[39m: [31mNão foi possível conectar[39m
+2024-08-01 14:43:33:4333 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.oqjptv.mongodb.net[39m
+2024-08-01 14:44:02:442 - [31merror[39m: [31mNão foi possível conectar[39m
+2024-08-02 16:20:34:2034 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
